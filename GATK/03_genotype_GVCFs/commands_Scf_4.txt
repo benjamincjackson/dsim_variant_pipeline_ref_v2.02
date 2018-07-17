@@ -1,0 +1,2 @@
+nice -n 19 /localdisk/home/bjackso4/dros_dsim/GATK/03_genotype_GVCFs/run_genotypeGVCFs.sh /localdisk/home/bjackso4/dros_dsim/GATK/02_combine_GVCFs_out/Scf_4.MD.combined.g.vcf.gz
+nice -n 19 /localdisk/home/bjackso4/dros_dsim/GATK/03_genotype_GVCFs/run_genotypeGVCFs.sh /localdisk/home/bjackso4/dros_dsim/GATK/02_combine_GVCFs_out/Scf_4.NS.combined.g.vcf.gz
